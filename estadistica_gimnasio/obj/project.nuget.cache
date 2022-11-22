@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A8gu62woLGjCospz+p0V2cS/3fvWbH7hAk5Iu8ccHT3PH++v9A5NngpsTU5rzC8VAycGwWqbhuWlNYPpSAMG5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ites_\\OneDrive\\Escritorio\\SUBIDA AL GITHUB CODIGOS\\estadistica_gimnasio\\estadistica_gimnasio\\estadistica_gimnasio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ites_\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
